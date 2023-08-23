@@ -1,6 +1,6 @@
 public class Box {
     public static void main(String[] args)  {
-        pattern1(n:4);
+        pattern1(n);
     }
     static void pattern1(int n){
             for(int row =1 ; row<=n ; row++) {
