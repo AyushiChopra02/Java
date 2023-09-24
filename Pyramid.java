@@ -8,7 +8,7 @@ public class Pyramid {
                 System.out.print("*");
             }
             for(int l= 2 ; l<=i ; l++){
-                System.out.print("*");
+                System.out.print( "*");
             }
             System.out.println();
         }
