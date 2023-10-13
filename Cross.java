@@ -6,7 +6,7 @@ public class Cross {
                     System.out.print("*");
                 }
                 else{
-                    System.out.print(" ");
+                    System.out.print(" ") ;
                 }
                 }
             
