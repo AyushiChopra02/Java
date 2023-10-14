@@ -12,7 +12,7 @@ public class UltaPyramid {
             for(int l=3 ; l>=i ; l--){
                 System.out.print("*");
             }
-            System.out.println();
+            System.out.println() ;
         }
     }
     
