@@ -9,7 +9,7 @@ public class Box {
                     System.out.print("* ") ;
                 }
                 //when one row is printed , weadd newline
-                System.out.println();
+                System.out.println() ;
             }
         }
     }
