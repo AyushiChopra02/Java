@@ -6,7 +6,7 @@ public class Box {
             for(int row =1 ; row<=n ; row++) {
                 //for every row ; run col
                 for(int col =1 ; col <= n ; col++){
-                    System.out.print("* ");
+                    System.out.print("* ") ;
                 }
                 //when one row is printed , weadd newline
                 System.out.println() ;
